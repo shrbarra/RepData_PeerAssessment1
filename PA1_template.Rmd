@@ -14,7 +14,8 @@ Loading the required packages and reading activity.csv dataset:
 ``` {r}
 library(dplyr, quietly = TRUE)
 library(ggplot2)
-act <- read.csv("activity.csv", header = TRUE)
+unzip("./activity.zip")
+act <- read.csv("./activity.csv", header = TRUE)
 ```
 
 ## 2. What is mean total number of steps taken per day?
