@@ -1,4 +1,4 @@
-## Course project 1 from the Reproductible Research course, as a part of the\n Data Science specialization from Coursera and Johns Hopkins University.
+## Course project 1 from the Reproductible Research course, as a part of the Data Science specialization from Coursera and Johns Hopkins University.
 
 The base dataset is the [Activity monitoring data](https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2Factivity.zip).
 
